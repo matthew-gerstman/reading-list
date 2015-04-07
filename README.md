@@ -8,7 +8,7 @@
 | DOM Enlightenment | Cody Lindley | http://domenlightenment.com | I haven’t finished this one but it’s a good thing to know about. |
 | 97 Things Every Programmer Should Know | Kevlin Henney | http://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484 | You will have strong opinions on the things in this book |
 | What Happens When ... | | https://github.com/alex/what-happens-when | I found this hilariously detailed. Worth skimming. |
-| What the heck is the event loop anyway? | Philip Roberts | What the heck is the event loop anyway? | This video should be mandatory for all JS developers|
+| What the heck is the event loop anyway? | Philip Roberts | http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html | This video should be mandatory for all JS developers|
 | Quantity Queries for CSS | Heydon Pickering | http://alistapart.com/article/quantity-queries-for-css | Everything in this article is wildly inefficient but I found it interesting |
 | Mediums CSS is Actually Pretty Fucking Good | @fat| https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06 | My css bible |
 | Crafting Link Underlines on Medium | Marcin Wichary | https://medium.com/designing-medium/crafting-link-underlines-on-medium-7c03a9274f9 | Really enjoyed this |
