@@ -1,6 +1,7 @@
 # My (Mostly Frontend) Reading List
 
 | *Title* | *Author* | *Link* | *Notes* |
+|---|---|---|---|
 | Javascript The Good Parts | Douglas Crockford | http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742 | Work reading cover to cover |
 | Maintainable Javascript | Nicholas C Zakas | http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680 | Ignore the whole section on ant |
 | Essential JS Design Patterns | Addy Osmani | http://addyosmani.com/resources/essentialjsdesignpatterns/book/ | Crockford would disagree with half the text in this book but I think it’s all worth reading |
